@@ -20,4 +20,6 @@ public class RotaterController : MonoBehaviour
 
         Rotater.RotateWhitTarget(transform, Target, Vector3.up, Theta, Speed * Time.deltaTime);
     }
+
+
 }
